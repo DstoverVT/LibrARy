@@ -1,0 +1,8 @@
+Time changed (s), Apple correct (T/F), Apple time clicked (s), MSFT correct (T/F), MSFT time clicked (s)
+68.84589, True, 74.54733, False, 68.84589
+75.83746, True, 78.45472, True, 79.4048
+83.83782, True, 86.62086, True, 87.47002
+90.83558, False, 98.84402, False, 98.84402
+98.84402, False, 107.8461, False, 107.8461
+107.8461, False, 115.8375, False, 115.8375
+115.8375, False, 122.8381, False, 122.8381

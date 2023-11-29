@@ -1,0 +1,6 @@
+Timestamp (s), App Name, Frame of Reference, Position (x, y, z), Scale (x, y, z), Rotation (x, y, z), Transparency, Visible
+63.83084, Book1, Body, (-0.83, 0.13, 2.18), , (-2.91, -21.55, -0.38), , True
+63.83084, Book2, Body, (0.88, 0.11, 2.96), , (-2.34, 16.25, -0.38), , True
+63.83084, Stocks, Body, (0.79, 0.73, 3.01), , (-13.35, 14.47, -0.38), , True
+63.83084, LibraryMap, Body, (-0.07, -1.01, 2.17), , (25.47, -2.25, -0.38), , True
+63.83084, TextApp, , , , , , False

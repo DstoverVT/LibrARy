@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ARAdaptations.unity
+    guid: 81e6db91fb7ae5946b6aea59ac17482d
+  - enabled: 0
+    path: Assets/Scenes/PointCloudSample.unity
+    guid: bab946e1a83b09c41820ed3639444ad6
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2ea89111cb5a5e744bc7094b9034fa0b, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: eb71399f360428e4689e8031ae06cb1e, type: 2}
